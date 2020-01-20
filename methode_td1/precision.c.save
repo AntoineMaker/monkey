@@ -1,0 +1,20 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+void main()
+{
+
+	float x=1;
+	double y=0;
+
+	while((1+x) > 1)
+
+	x = x/2;
+	y =y/2;
+	printf("x= %f\n", x);
+	printf("y= %lf\n", y);
+	}
+
+
+
+}
